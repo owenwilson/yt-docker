@@ -33,4 +33,4 @@ docker run --name example-yt --rm -v /home/user/new-files:/media/yt-files -it cu
 ## reference
  
 - [please review the following documentation](https://github.com/yt-dlp/yt-dlp/wiki/Installation)
-
+- [full documentation](https://github.com/yt-dlp/yt-dlp#readme)
